@@ -101,6 +101,10 @@ body {
   text-transform: uppercase;
 }
 
+.nav-custom-spacing {
+  padding-right: 185px;
+}
+
 a,
 a:hover,
 a:focus {
@@ -615,8 +619,8 @@ a:focus {
 }
 
 .team_section .team-img {
-  max-width: 200px;
-  height: auto;
+  width: 200px;
+  height: 250px;
   border-radius: 8px; /* Rounded corners (optional) */
   object-fit: cover;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
